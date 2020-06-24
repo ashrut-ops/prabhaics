@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/prabhaics/static/css/main.68e09eca.chunk.css",
+    "main.js": "/prabhaics/static/js/main.1cf4049e.chunk.js",
+    "main.js.map": "/prabhaics/static/js/main.1cf4049e.chunk.js.map",
+    "runtime-main.js": "/prabhaics/static/js/runtime-main.91a97e58.js",
+    "runtime-main.js.map": "/prabhaics/static/js/runtime-main.91a97e58.js.map",
+    "static/css/2.b437d9c2.chunk.css": "/prabhaics/static/css/2.b437d9c2.chunk.css",
+    "static/js/2.9b9193bf.chunk.js": "/prabhaics/static/js/2.9b9193bf.chunk.js",
+    "static/js/2.9b9193bf.chunk.js.map": "/prabhaics/static/js/2.9b9193bf.chunk.js.map",
+    "index.html": "/prabhaics/index.html",
+    "precache-manifest.64cadf0101875ab224dc0c649a25eee8.js": "/prabhaics/precache-manifest.64cadf0101875ab224dc0c649a25eee8.js",
+    "service-worker.js": "/prabhaics/service-worker.js",
+    "static/css/2.b437d9c2.chunk.css.map": "/prabhaics/static/css/2.b437d9c2.chunk.css.map",
+    "static/css/main.68e09eca.chunk.css.map": "/prabhaics/static/css/main.68e09eca.chunk.css.map",
+    "static/js/2.9b9193bf.chunk.js.LICENSE.txt": "/prabhaics/static/js/2.9b9193bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91a97e58.js",
+    "static/css/2.b437d9c2.chunk.css",
+    "static/js/2.9b9193bf.chunk.js",
+    "static/css/main.68e09eca.chunk.css",
+    "static/js/main.1cf4049e.chunk.js"
+  ]
+}
